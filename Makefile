@@ -2,6 +2,7 @@ YARN   ?= npx yarn
 
 
 install:
+	$(YARN) link mockup
 	$(YARN) install
 
 .PHONY: clean
