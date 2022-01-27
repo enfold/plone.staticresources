@@ -2,7 +2,7 @@
 <registry>
 
   <records prefix="plone.bundles/bootstrap-js" interface='Products.CMFPlone.interfaces.IBundleRegistry'>
-    <value key="enabled">True</value>
+    <value key="enabled">False</value>
     <value key="jscompilation">++plone++static/bundle-bootstrap/js/bootstrap.bundle.min.js</value>
     <value key="csscompilation"></value>
     <value key="load_async">False</value>
