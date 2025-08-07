@@ -8,6 +8,12 @@ Changelog
 
 .. towncrier release notes start
 
+2.3.2+enfold.2 (unreleased)
+---------------------------
+
+- Nothing changed yet.
+
+
 2.3.2 (2025-07-28)
 ------------------
 
